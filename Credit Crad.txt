@@ -1,0 +1,13 @@
+IndusInd Credit Card Usage
+
+Payment-I   	--->  4,755  14DEC
+Payment-II  	---> 11,751  20DEC
+Payment-III 	---> 23,798  29DEC
+
+
+Paytm-BigBasket --->  1,518  23DEC
+----------------------------------
+Total       	---> 41,822
+CashBack 	--->    692   2JAN
+----------------------------------
+		     41,130 
